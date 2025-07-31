@@ -1,0 +1,82 @@
+**📜 Privacy Policy**
+Effective Date: 07/31/2025
+App Name: Arson – Esports Tournaments & Rewards
+Developer: DevSenpai
+Contact: gamerinside47@gmail.com
+
+🔐 1. Information We Collect
+a. Personal Information
+We collect data when you sign in and use features such as tournaments and rewards. This includes:
+
+Name
+
+Email address
+
+Google ID
+
+Device identifiers
+
+b. App Usage Information
+Collected automatically through analytics and third-party services:
+
+Feature usage
+
+Ad interactions
+
+Crash reports
+
+Device info
+
+🛠️ 2. How We Use Your Data
+Your data is used to:
+
+Authenticate and register users via Google Sign-In
+
+Power tournament systems and reward tracking
+
+Show rewarded video ads (AdMob)
+
+Improve features and detect bugs via Firebase Crashlytics
+
+🤝 3. Third-Party Services
+We integrate the following third-party services:
+
+Google Sign-In – for authentication
+
+Firebase – for analytics, database, crash reports
+
+Google AdMob – for rewarded video ads
+
+These services may collect and process data according to their own privacy policies.
+
+🔒 4. Data Security
+We take reasonable precautions to:
+
+Secure your data using industry best practices
+
+Store it safely in Firebase’s secure infrastructure
+
+Restrict access to authorized personnel only
+
+🚫 5. Children’s Privacy
+This app is not intended for users under 13. We do not knowingly collect data from children. If we discover such data, we will delete it immediately.
+
+✅ 6. Your Rights
+You can:
+
+Request deletion of your account and data
+
+Revoke data processing consent
+
+Contact us for clarification
+
+📧 Email us at: gamerinside47@gmail.com
+
+🔄 7. Changes to Policy
+This Privacy Policy may be updated. Updates will be pushed to this GitHub repository and/or displayed in-app. Continued use of the app constitutes agreement to the revised terms.
+
+📬 Contact
+For privacy-related questions or requests, reach out via:
+
+📧 gamerinside47@gmail.com
+🐙 GitHub: https://github.com/maanjk/ARSON
